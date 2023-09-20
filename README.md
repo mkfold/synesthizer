@@ -33,7 +33,7 @@ The early Processing version of this script requires Processing, processing-vide
 The `experiments` directory contains a few scripts made early in the development of this project to generate raw PCM signals directly from images and video.
 
 ## Authors
-Mia (@xxmia)  
-Christian Careaga (@CCareaga)  
-Ryan Haight (@ryanhaight444)  
-Daniel Tarnu
+- Mia (@mkfold)
+- Christian Careaga (@CCareaga)
+- Ryan Haight (@ryanhaight444)
+- Daniel Tarnu
